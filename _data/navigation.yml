@@ -3,7 +3,22 @@ main:
   - title: "About me"
     url: /
   - title: "Urban informatics"
-    url: /urban-info/
+    url: /ui/geovis/intro/
+
+ui:
+  - title: Geovisulization
+    children:
+      - title: "Introduction"
+        url: /ui/geovis/intro/
+      - title: "Cartogram"
+        url: /ui/geovis/carto/
+
+  - title: Urban Complexity
+    children:
+      - title: "Introduction"
+        url: /ui/uc/intro/
+      - title: "Cartogram"
+        url: /ui/uc/carto/
 
   # - title: "Sample Posts"
   #   url: /year-archive/
