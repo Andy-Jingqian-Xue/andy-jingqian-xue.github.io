@@ -90,7 +90,14 @@ body {
       margin-top: 0.5em;
       font-size: 0.85em; // 设置 h2 的字体大小
     }
-  
+
+    h1 {
+      padding-bottom: 0.5em;
+      border-bottom: 1px solid $border-color;
+      margin-top: 0.5em;
+      font-size: 1.2em; // 设置 h2 的字体大小
+    }
+
     ul {
       margin-top: 0.2em; // 减少列表与上方标题之间的间距
       padding-left: 1em;
@@ -108,7 +115,7 @@ body {
 			position: relative;
 			inset-inline-start: 0.5em;
 			opacity: 0;
-			font-size: 0.8em;
+			font-size: 1em;
 			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
 			-moz-transition: opacity 0.2s ease-in-out 0.1s;
 			-o-transition: opacity 0.2s ease-in-out 0.1s;
@@ -123,7 +130,7 @@ body {
   p,
   li,
   dl {
-    font-size: 0.7em;
+    font-size: 0.8em;
     text-align: justify;
   }
 
