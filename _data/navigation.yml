@@ -12,6 +12,8 @@ ui:
         url: /ui/geovis/intro/
       - title: "Cartogram"
         url: /ui/geovis/carto/
+      - title: "Head/tail breaks"
+        url: /ui/geovis/htbreaks/
 
   - title: Urban Complexity
     children:
