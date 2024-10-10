@@ -15,12 +15,12 @@ ui:
       - title: "Head/tail breaks"
         url: /ui/geovis/htbreaks/
 
-  - title: Urban Complexity
-    children:
-      - title: "Introduction"
-        url: /ui/uc/intro/
-      - title: "Cartogram"
-        url: /ui/uc/carto/
+  # - title: Urban Complexity
+  #   children:
+  #     - title: "Introduction"
+  #       url: /ui/uc/intro/
+  #     - title: "Cartogram"
+  #       url: /ui/uc/carto/
 
   # - title: "Sample Posts"
   #   url: /year-archive/
