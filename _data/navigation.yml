@@ -14,7 +14,9 @@ ui:
         url: /ui/geovis/carto/
       - title: "Head/tail breaks"
         url: /ui/geovis/htbreaks/
-
+      - title: "3D Reconstruction"
+        url: /ui/geovis/3d/
+        
   # - title: Urban Complexity
   #   children:
   #     - title: "Introduction"
