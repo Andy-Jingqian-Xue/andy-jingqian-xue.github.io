@@ -189,13 +189,55 @@ $text-alignments: left, right, start, end, center, justify;
 }
 
 /* social icons*/
-
 .social-icons {
+  display: flex;
+  align-items: center;
+
+  gap: 8px;
+
   .fas,
   .fab,
   .far,
   .fal {
-    color: $text-color;
+    font-size: inherit;
+    line-height: 1;
+    display: inline-block;
+    vertical-align: -0.125em;
+    color: currentColor;
+  }
+
+  .icon-container {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .social-icon {
+      width: 0.9em;
+      height: auto;
+      margin-left: 0.15em;
+      margin-right: 0.15em;
+      vertical-align: -0.125em;
+  }
+
+  .label {
+      font-size: 14px;
+  }
+
+
+  .fa-envelope-square {
+    color: #007ACC;
+  }
+
+  .fa-google-scholar {
+    color: #1A73E8;
+  }
+
+  .fa-github {
+    color: #000000;
+  }
+
+  .fa-researchgate {
+    color: #63E6BE;
   }
 
   @each $color, $icons in (

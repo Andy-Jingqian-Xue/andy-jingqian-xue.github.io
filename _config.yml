@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-GB"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "Andy Xue - Homepage"
+title: "Andy's Homepage" 
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
+subtitle: UGOD@HKUST(GZ) # site tagline that appears below site title in masthead
 name: "Andy Jingqian Xue"
 description: "Andy Jingqian Xue's personal homepage to introduce his academic works."
 url: https://andy-jingqian-xue.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -27,7 +27,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: Andy Xue # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: # true, false (default)
 words_per_minute: 200
 enable_copy_code_button: # true, false (default)
@@ -67,7 +67,7 @@ reCaptcha:
   secret:
 atom_feed:
   path: # blank (default) uses feed.xml
-  hide: # true, false (default)
+  hide: true #false (default)
 search: # true, false (default)
 search_full_content: # true, false (default)
 search_provider: # lunr (default), algolia, google
@@ -116,39 +116,43 @@ author:
   avatar: "/assets/images/Andy's profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "I am an MPhil student now at HKUST(GZ)."
   location: "Guangzhou, China"
-  email: andy.j.xue@connct.hkust-gz.edu.cn
+  # email: andy.j.xue@connct.hkust-gz.edu.cn
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: "andy.j.xue@connct.hkust-gz.edu.cn"
 
     - label: "Google scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=R0ID79oAAAAJ&hl=en"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Andy-Jingqian-Xue/"
 
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Andy-Jingqian-Xue/"
+
+    - label: "XiaoHongShu"
+      icon: "assets/icons/XiaohongshuLOGO.svg"
+      url: "https://www.xiaohongshu.com/user/profile/5f992eba000000000100be1c?xhsshare=CopyLink&appuid=5f992eba000000000100be1c&apptime=1732421694&share_id=cc6e2d31b418464391bd07d939c041a8"
+
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/Andy-Jingqian-Xue/"
+
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Andy-Jingqian-Xue/"
+    
+    - label: "XiaoHongShu"
+      icon: "assets/icons/XiaohongshuLOGO.svg"
+      url: "https://www.xiaohongshu.com/user/profile/5f992eba000000000100be1c?xhsshare=CopyLink&appuid=5f992eba000000000100be1c&apptime=1732421694&share_id=cc6e2d31b418464391bd07d939c041a8"
+
 
 # Reading Files
 include:
@@ -244,17 +248,16 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
+  - jekyll-feed
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
-
+  - jekyll-feed
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)

@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "About me"
+  - title: "About Me"
     url: /
-  - title: "Urban informatics"
+  - title: "Urban Informatics"
     url: /ui/geovis/intro/
 
 ui:
@@ -10,19 +10,34 @@ ui:
     children:
       - title: "Introduction"
         url: /ui/geovis/intro/
+      - title: "Visulization models"
+        url: /ui/geovis/models/
       - title: "Cartogram"
         url: /ui/geovis/carto/
       - title: "Head/tail breaks"
         url: /ui/geovis/htbreaks/
       - title: "3D Reconstruction"
         url: /ui/geovis/3d/
-        
-  # - title: Urban Complexity
-  #   children:
-  #     - title: "Introduction"
-  #       url: /ui/uc/intro/
-  #     - title: "Cartogram"
-  #       url: /ui/uc/carto/
+
+  - title: Urban Complexity
+    children:
+      - title: "Introduction"
+        url: /ui/uc/intro/
+      - title: "Scaling way of thinking"
+        url: /ui/uc/scaling/
+      - title: "Topology and complex network"
+        url: /ui/uc/network/
+      - title: "Agent-based modelling"
+        url: /ui/uc/abm/
+
+  - title: Living structure
+    children:
+      - title: "Introduction"
+        url: /ui/ls/intro/
+      - title: "Two fundamental laws"
+        url: /ui/ls/laws/
+      - title: "Fifteen properties"
+        url: /ui/ls/properties/
 
   # - title: "Sample Posts"
   #   url: /year-archive/

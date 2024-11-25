@@ -5,12 +5,26 @@
     {% endif %}
 
     {% if site.footer.links %}
+    <ul>
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+          <li>
+            {% if link.icon contains '.svg' %}
+              <a href="{{ link.url }}" rel="nofollow noopener noreferrer">
+                <img src="{{ link.icon | relative_url }}" alt="{{ link.label }}" class="social-icon">
+                <span class="label">{{ link.label }}</span>
+              </a>
+            {% else %}
+              <a href="{{ link.url }}" rel="nofollow noopener noreferrer">
+                <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+                {{ link.label }}
+              </a>
+            {% endif %}
+          </li>
         {% endif %}
       {% endfor %}
-    {% endif %}
+    </ul>
+  {% endif %}
 
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>

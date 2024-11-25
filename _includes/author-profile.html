@@ -32,11 +32,23 @@
       {% endif %}
 
       {% if author.links %}
-        {% for link in author.links %}
-          {% if link.label and link.url %}
-            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
-          {% endif %}
-        {% endfor %}
+      {% for link in author.links %}
+      {% if link.label and link.url %}
+      <li>
+        {% if link.icon contains '.svg' %}
+        <a href="{{ link.url }}" rel="nofollow noopener noreferrer me" itemprop="sameAs">
+          <img src="{{ link.icon | relative_url }}" alt="{{ link.label }}" class="social-icon">
+          <span class="label">{{ link.label }}</span>
+        </a>
+        {% else %}
+        <a href="{{ link.url }}" rel="nofollow noopener noreferrer me" itemprop="sameAs">
+          <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+          <span class="label">{{ link.label }}</span>
+        </a>
+        {% endif %}
+      </li>
+      {% endif %}
+      {% endfor %}
       {% endif %}
 
       {% if author.uri %}
@@ -214,6 +226,17 @@
             <i class="fab fa-fw fa-weibo" aria-hidden="true"></i><span class="label">Weibo</span>
           </a>
         </li>
+      {% endif %}
+
+      {% if author.xiaohongshu %}
+      <li>
+        <a href="https://www.xiaohongshu.com/user/profile/..." itemprop="sameAs" rel="nofollow noopener noreferrer me">
+          <div class="icon-container">
+            <img src="/assets/icons/XiaohongshuLOGO.svg" alt="XiaoHongShu" class="social-icon">
+            <span class="label">XiaoHongShu</span>
+          </div>
+        </a>
+      </li>      
       {% endif %}
 
       {% if author.flickr %}
