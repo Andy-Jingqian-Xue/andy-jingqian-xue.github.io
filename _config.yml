@@ -17,7 +17,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale: "en-GB"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "Andy's Homepage" 
+title: "Andy's Homepage"
 title_separator: "-"
 subtitle: UGOD@HKUST(GZ) # site tagline that appears below site title in masthead
 name: "Andy Jingqian Xue"
@@ -148,11 +148,10 @@ footer:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Andy-Jingqian-Xue/"
-    
+
     - label: "XiaoHongShu"
       icon: "assets/icons/XiaohongshuLOGO.svg"
       url: "https://www.xiaohongshu.com/user/profile/5f992eba000000000100be1c?xhsshare=CopyLink&appuid=5f992eba000000000100be1c&apptime=1732421694&share_id=cc6e2d31b418464391bd07d939c041a8"
-
 
 # Reading Files
 include:

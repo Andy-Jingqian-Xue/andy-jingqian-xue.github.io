@@ -27,6 +27,10 @@ ui:
         url: /ui/uc/scaling/
       - title: "Topology and complex network"
         url: /ui/uc/network/
+      - title: "Space syntax"
+        url: /ui/uc/syntax/
+      - title: "Fractal geometry"
+        url: /ui/uc/fractal/
       - title: "Agent-based modelling"
         url: /ui/uc/abm/
 

@@ -23,12 +23,14 @@ The cartogram is generated based on the geographic distribution of natural citie
 <div id="map" style="width: 100%; height: 400px;"></div>
 
 <script>
-  var map = L.map('map').setView([39.9, 116.4], 5);
+    // 初始化地图
+    var map = L.map('map').setView([39.9, 116.4], 5);
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19,
-  }).addTo(map);
-
+    // 添加基础瓦片图层
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+    }).addTo(map);
+    
 </script>
 
 <br> 
