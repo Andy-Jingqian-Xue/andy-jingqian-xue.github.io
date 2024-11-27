@@ -32,8 +32,8 @@ A city can be regarded as a complex network. More importantly, a livable city is
 
 
 ## References:
-Barabási A. L. and Albert R. (1999), Emergence of scaling in random networks, Science, 286(5439), 509–512.
-Jiang B. and Claramunt C. (2004), Topological analysis of urban street networks, Environment and Planning B: Planning and design, 31(1), 151–162.
-Jiang B. (2013), Head/tail breaks: A new classification scheme for data with a heavy-tailed distribution, The Professional Geographer, 65(3), 482–494.
-Page L. and Brin S. (1998), The anatomy of a large-scale hypertextual Web search engine, Proceedings of the seventh international conference on World Wide Web, 7, 107–117. 
-Watts D. J. and Strogatz S. H. (1998), Collective dynamics of ‘small-world’ networks, Nature, 393(6684), 440–442.
+- Barabási A. L. and Albert R. (1999), Emergence of scaling in random networks, *Science*, 286(5439), 509–512.
+- Jiang B. and Claramunt C. (2004), Topological analysis of urban street networks, *Environment and Planning B: Planning and design*, 31(1), 151–162.
+- Jiang B. (2013), Head/tail breaks: A new classification scheme for data with a heavy-tailed distribution, *The Professional Geographer*, 65(3), 482–494.
+- Page L. and Brin S. (1998), The anatomy of a large-scale hypertextual Web search engine, *Proceedings of the seventh international conference on World Wide Web*, 7, 107–117. 
+- Watts D. J. and Strogatz S. H. (1998), Collective dynamics of ‘small-world’ networks, *Nature*, 393(6684), 440–442.

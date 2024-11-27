@@ -32,7 +32,7 @@ Living structure provides a new perspective for not just understanding the urban
 
 
 ## References:
-Alexander C. (2002–2005), The Nature of Order: An essay on the art of building and the nature of the universe, Center for Environmental Structure: Berkeley, CA.
-Alexander C. (2003), New Concepts in Complexity Theory: Arising from studies in the field of architecture, an overview of the four books of The Nature of Order with emphasis on the 15 scientific problems which are raised, http://natureoforder.com/library/scientific-introduction.pdf. 
-Jiang B. (2013), Head/tail breaks: A new classification scheme for data with a heavy-tailed distribution, The Professional Geographer, 65(3), 482–494.
-Jiang B. (2019), Living structure down to earth and up to heaven: Christopher Alexander, Urban Science, 3(3), 96.
+- Alexander C. (2002–2005), *The Nature of Order: An essay on the art of building and the nature of the universe*, Center for Environmental Structure: Berkeley, CA.
+- Alexander C. (2003), New Concepts in Complexity Theory: Arising from studies in the field of architecture, an overview of the four books of The Nature of Order with emphasis on the 15 scientific problems which are raised, http://natureoforder.com/library/scientific-introduction.pdf. 
+- Jiang B. (2013), Head/tail breaks: A new classification scheme for data with a heavy-tailed distribution, *The Professional Geographer*, 65(3), 482–494.
+- Jiang B. (2019), Living structure down to earth and up to heaven: Christopher Alexander, *Urban Science*, 3(3), 96.

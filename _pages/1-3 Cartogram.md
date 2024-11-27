@@ -45,4 +45,4 @@ Each natural city is represented by a dot, with its size scaled according to its
 So you can see developed countries tend to have a larger number of natural cities, as their formation is based on nighttime light maps, which reflect a country’s level of economic development. Within the United States, we can observe that plains regions, such as the East and West Coasts, are enlarged, while mountainous areas are reduced in size. This is because human activity levels in the plains are significantly higher than in mountainous regions.
 
 ## References
-Xue A. J., Huang C. and Jiang B. (2024), Measuring global urban complexity from the perspective of living structure, *Urban Informatics*, 3(1), 1–15.
+- Xue A. J., Huang C. and Jiang B. (2024), Measuring global urban complexity from the perspective of living structure, *Urban Informatics*, 3(1), 1–15.

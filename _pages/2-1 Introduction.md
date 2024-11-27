@@ -32,12 +32,12 @@ However, the Koch curve and the CPT model are still too restricted for geographi
 
 
 ## References
-Christaller W. (1933, 1966), Central Places in Southern Germany, Prentice Hall: Englewood Cliffs, N. J.<br>
-Clauset A., Shalizi C. R., and Newman M. E. J. (2009), Power-law distributions in empirical data, SIAM Review, 51, 661-703.<br>
-Jiang B. and Yin J. (2014), Ht-index for quantifying the fractal or scaling structure of geographic features, Annals of the Association of American Geographers, 104(3), 530-540.<br>
-Jiang B. (2015a), Geospatial analysis requires a different way of thinking: The problem of spatial heterogeneity, GeoJournal, 80(1), 1–13.<br>
-Jiang, B. (2015b), The fractal nature of maps and mapping, International Journal of Geographical Information Science, 29(1), 159–174.<br>
-Jiang B. (2020), Alexander's wholeness as the scientific foundation of sustainable urban design and planning, New Design Ideas, 3(2), 81–98.<br>
-Mandelbrot B. (1967), How long is the coast of Britain? Statistical self-similarity and fractional dimension, Science, 156(3775), 636–638.<br>
-Simon H. A. (1962), The architecture of complexity, Proceedings of the American Philosophical Society, 106(6), 467–482.<br>
-Zipf G. K. (1949), Human Behaviour and the Principles of Least Effort, Addison Wesley: Cambridge, MA.<br>
+- Christaller W. (1933, 1966), Central Places in Southern Germany, Prentice Hall: Englewood Cliffs, N. J.
+- Clauset A., Shalizi C. R., and Newman M. E. J. (2009), Power-law distributions in empirical data, SIAM Review, 51, 661-703.
+- Jiang B. and Yin J. (2014), Ht-index for quantifying the fractal or scaling structure of geographic features, Annals of the Association of American Geographers, 104(3), 530-540.<br>
+- Jiang B. (2015a), Geospatial analysis requires a different way of thinking: The problem of spatial heterogeneity, GeoJournal, 80(1), 1–13.
+- Jiang, B. (2015b), The fractal nature of maps and mapping, International Journal of Geographical Information Science, 29(1), 159–174.
+- Jiang B. (2020), Alexander's wholeness as the scientific foundation of sustainable urban design and planning, New Design Ideas, 3(2), 81–98.
+- Mandelbrot B. (1967), How long is the coast of Britain? Statistical self-similarity and fractional dimension, Science, 156(3775), 636–638.
+- Simon H. A. (1962), The architecture of complexity, Proceedings of the American Philosophical Society, 106(6), 467–482.
+- Zipf G. K. (1949), Human Behaviour and the Principles of Least Effort, Addison Wesley: Cambridge, MA.

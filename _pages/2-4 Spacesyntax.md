@@ -31,9 +31,9 @@ Living structure is the inherent structure of urban morphology and is precisely 
 Space syntax provides a solid approach to discovering living structure and simplifying complexity through a topological view of space. The essence of the inherent structure of urban morphology is the scaling hierarchy where there are far more small substructures than large substructures (Jiang 2020). By axial maps and connectivity graphs, space syntax enables decompose the complex spaces into simply smaller spaces that humans can easily perceived. Furthermore, based on the topological representation, the connectivity and integration of axial lines could uncover the living structure with hierarchy in a target space (Jiang 2019). Space syntax offers both qualitative and quantitative insights for the fundamental issues of cities, including how cities look like and how cities work or are organized. The generative process from a realistic urban system to an axial map is an understanding issue of urban morphology and configuration. While the opposite process from a well-organized axial map or connectivity graph into an urban planning, which is actually a design issue. The discovery of living structure makes the goodness of space an objective fact rather than a subjective opinion through topological representations and quantitative measurements by space syntax.
 
 ## References:
-Alexander C. (2002–2005), The Nature of Order: An essay on the art of building and the nature of the universe, Center for Environmental Structure: Berkeley, CA.
-Hillier B. and Hanson J. (1984), The Social Logic of Space, Cambridge University Press: Cambridge.
-Jiang B. (2020), Alexander's wholeness as the scientific foundation of sustainable urban design and planning, New Design Ideas, 3(2), 81–98.
-Jiang B. (2019), A topological representation for taking cities as a coherent whole, The mathematics of urban morphology, 335–352.
-Ma D., Omer I., Osaragi T. and Jiang B. (2019), Why topology matters in predicting human activities, Environment and Planning B: Urban Analytics and City Science, 46(7), 1297–1313.
+- Alexander C. (2002–2005), *The Nature of Order: An essay on the art of building and the nature of the universe*, Center for Environmental Structure: Berkeley, CA.
+- Hillier B. and Hanson J. (1984), *The Social Logic of Space*, Cambridge University Press: Cambridge.
+- Jiang B. (2020), Alexander's wholeness as the scientific foundation of sustainable urban design and planning, *New Design Ideas*, 3(2), 81–98.
+- Jiang B. (2019), A topological representation for taking cities as a coherent whole, *The Mathematics of Urban Morphology*, 335–352.
+- Ma D., Omer I., Osaragi T. and Jiang B. (2019), Why topology matters in predicting human activities, *Environment and Planning B: Urban Analytics and City Science*, 46(7), 1297–1313.
 

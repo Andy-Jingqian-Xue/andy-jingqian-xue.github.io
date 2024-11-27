@@ -33,4 +33,4 @@ DiBiase’s Swoopy Diagram focuses on the process of visual thinking and how vis
 MacEachren’s Cartography Cube addresses the interaction between user audience, data relations, and interaction. The cube structure emphasizes how data can be represented in terms of its known and unknown relationships, and how interaction level varies depending on the type of data and the audience. The model helps in understanding how to present or explore data with varying degrees of complexity and interactivity.
 
 ## References
-MacEachren A. M. and Taylor D. (1994), *Visualization in Modern Cartography*, Elsevier, Great Britain: Pergamon.
+- MacEachren A. M. and Taylor D. (1994), *Visualization in Modern Cartography*, Elsevier, Great Britain: Pergamon.

@@ -32,9 +32,9 @@ Cartography revolves around the efficient simplification and depiction of the Ea
 
 
 ## References:
-Jiang B. (2015a), Geospatial analysis requires a different way of thinking: The problem of spatial heterogeneity, GeoJournal, 80(1), 1–13.
-Jiang B. (2015b), The fractal nature of maps and mapping, International Journal of Geographical Information Science, 29(1), 159–174.
-Jiang B. (2019), New paradigm in mapping: A critique on Cartography and GIS, Cartographica, 54(3), 183–205. Reprinted as the cover story in the magazine Coordinates, October issue, 9–21.
-Mandelbrot B. B. (1967), How long is the coast of Britain? Statistical self-similarity and fractional dimension, Science, 156(3775), 636–638.
-Mandelbrot B. B. (1982), The Fractal Geometry of Nature, W. H. Freeman and Co.: New York. 
-Simon H. A. (1962), The architecture of complexity, Proceedings of the American Philosophical Society, 106(6), 467–482.
+- Jiang B. (2015a), Geospatial analysis requires a different way of thinking: The problem of spatial heterogeneity, GeoJournal, 80(1), 1–13.
+- Jiang B. (2015b), The fractal nature of maps and mapping, International Journal of Geographical Information Science, 29(1), 159–174.
+- Jiang B. (2019), New paradigm in mapping: A critique on Cartography and GIS, Cartographica, 54(3), 183–205. Reprinted as the cover story in the magazine Coordinates, October issue, 9–21.
+- Mandelbrot B. B. (1967), How long is the coast of Britain? Statistical self-similarity and fractional dimension, Science, 156(3775), 636–638.
+- Mandelbrot B. B. (1982), The Fractal Geometry of Nature, W. H. Freeman and Co.: New York. 
+- Simon H. A. (1962), The architecture of complexity, Proceedings of the American Philosophical Society, 106(6), 467–482.
