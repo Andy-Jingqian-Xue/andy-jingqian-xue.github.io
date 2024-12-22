@@ -4,6 +4,7 @@ main:
     url: /
   - title: "Urban Informatics"
     url: /ui/geovis/intro/
+  - title: "Paper Sharings (TBD)"
 
 ui:
   - title: Geovisulization
@@ -29,19 +30,14 @@ ui:
         url: /ui/uc/network/
       - title: "Space syntax"
         url: /ui/uc/syntax/
-      - title: "Fractal geometry"
-        url: /ui/uc/fractal/
-      - title: "Agent-based modelling"
-        url: /ui/uc/abm/
 
   - title: Living structure
     children:
       - title: "Introduction"
         url: /ui/ls/intro/
-      - title: "Two fundamental laws"
-        url: /ui/ls/laws/
       - title: "Fifteen properties"
         url: /ui/ls/properties/
+
 
   # - title: "Sample Posts"
   #   url: /year-archive/

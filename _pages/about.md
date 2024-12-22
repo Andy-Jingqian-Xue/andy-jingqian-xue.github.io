@@ -52,10 +52,11 @@ In addition to GeoAI and urban complexity, I am also interested in big data anal
 ## 📝 Publications
 - **<u>Xue J.</u>**, Huang C. and Jiang B. (2024), Measuring global urban complexity from the perspective of living structure, *Urban Informatics*, 3(1), 1–15.
 - **<u>Xue J.</u>**, He D., Liu M. and Shi Q. (2022), [Dual network structure with interweaved global-local feature hierarchy for transformer-based object detection in remote sensing image](https://ieeexplore.ieee.org/document/9862529), *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 15, 6856–6866.
-- He D., Shi Q., **<u>Xue J.</u>** and Liu X. (2024), Explicable sub-pixel mapping based on nested self-attention network with spatial correlation learnable mechanism, in *International Geoscience and Remote Sensing Symposium*, IEEE: Athens, Greece.
 - He D., Shi Q., **<u>Xue J.</u>**, Atkinson P. M. and Liu X. (2023), [Very fine spatial resolution urban land cover mapping uUsing an explicable sub-pixel Mapping Network](https://www.sciencedirect.com/science/article/pii/S0034425723004352#f0050), *Remote Sensing of Environment*, 299, 113884.
 - Shi Q., He D., Liu Z., Liu X. and **<u>Xue J.</u>** (2023), [Globe230k: A benchmark dense-pixel annotation dataset for global land cover mapping](https://spj.science.org/doi/10.34133/remotesensing.0078), *Journal of Remote Sensing*, 3, 0078.
 
 
 ## 💬 Conference presentations
-- *2024.12*, Measuring global urban complexity from the perspective of living structure, in *Asian Cartographic Conference*, International Cartographic Association: Hong Kong SAR, China.
+
+- **<u>Xue J.</u>**, Huang C. and Jiang B. (2024), Measuring global urban complexity from the perspective of living structure, in *Asian Cartographic Conference*, International Cartographic Association: Hong Kong SAR, China (**Best Student Paper Presentation Award**).
+- He D., Shi Q., **<u>Xue J.</u>** and Liu X. (2024), Explicable sub-pixel mapping based on nested self-attention network with spatial correlation learnable mechanism, in *International Geoscience and Remote Sensing Symposium*, IEEE: Athens, Greece.

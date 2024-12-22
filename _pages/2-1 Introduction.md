@@ -34,7 +34,7 @@ However, the Koch curve and the CPT model are still too restricted for geographi
 ## References
 - Christaller W. (1933, 1966), Central Places in Southern Germany, Prentice Hall: Englewood Cliffs, N. J.
 - Clauset A., Shalizi C. R., and Newman M. E. J. (2009), Power-law distributions in empirical data, SIAM Review, 51, 661-703.
-- Jiang B. and Yin J. (2014), Ht-index for quantifying the fractal or scaling structure of geographic features, Annals of the Association of American Geographers, 104(3), 530-540.<br>
+- Jiang B. and Yin J. (2014), Ht-index for quantifying the fractal or scaling structure of geographic features, Annals of the Association of American Geographers, 104(3), 530-540.
 - Jiang B. (2015a), Geospatial analysis requires a different way of thinking: The problem of spatial heterogeneity, GeoJournal, 80(1), 1–13.
 - Jiang, B. (2015b), The fractal nature of maps and mapping, International Journal of Geographical Information Science, 29(1), 159–174.
 - Jiang B. (2020), Alexander's wholeness as the scientific foundation of sustainable urban design and planning, New Design Ideas, 3(2), 81–98.
