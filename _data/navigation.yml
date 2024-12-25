@@ -24,20 +24,23 @@ ui:
     children:
       - title: "Introduction"
         url: /ui/uc/intro/
-      - title: "Scaling way of thinking"
-        url: /ui/uc/scaling/
-      - title: "Topology and complex network"
+      - title: "Fractal geometry"
+        url: /ui/uc/fractal/
+      - title: "Complex network"
         url: /ui/uc/network/
+      - title: "Urban scaling"
+        url: /ui/uc/scaling/
       - title: "Space syntax"
         url: /ui/uc/syntax/
-
+      - title: "Agent-based modelling"
+        url: /ui/uc/abm/
+        
   - title: Living structure
     children:
       - title: "Introduction"
         url: /ui/ls/intro/
       - title: "Fifteen properties"
         url: /ui/ls/properties/
-
 
   # - title: "Sample Posts"
   #   url: /year-archive/

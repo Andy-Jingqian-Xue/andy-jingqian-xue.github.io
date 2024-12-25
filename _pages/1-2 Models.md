@@ -11,7 +11,7 @@ header:
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 ---
 
-# Geovisualization as Analytical and Communication Tools
+# Geovisualization for Analysis and Communication
 <div class="author-info">
   Andy Jingqian Xue<br>
   UGOD Thrust, HKUST(GZ)<br>
