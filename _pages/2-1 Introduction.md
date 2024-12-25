@@ -60,7 +60,7 @@ Christopher Alexander introduced the essay *A City is Not a Tree* in 1965, which
 Human beings are not only interested in understanding the complexity of the world, but also in predicting what will happen. While the world is indeed complex, it still contains hidden order and underlying rules. For example, a wolf would not likely eat grass, but instead, it would prey on sheep.
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/2-1/SIMCity.png'}}">
+  <img src="{{ '/assets/images/2-1/SimCity.png'}}">
   <p>
     <em>
       <a href="https://medium.com/re-form/simcity-that-i-used-to-know-d5d8c49e3e1d" target="_blank">
