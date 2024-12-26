@@ -5,9 +5,6 @@ permalink: /ui/uc/intro/
 author_profile: false
 sidebar:
   nav: "ui"
-toc: False
-toc_label: "On this page"
-toc_icon: "magnifying-glass"
 title: "Urban Complexity"
 excerpt: "<em>“Cities, then, are of an **organized complexity**.” — Jane Jacobs (1961), The Death and Life of Great American Cities <em>"
 header:
