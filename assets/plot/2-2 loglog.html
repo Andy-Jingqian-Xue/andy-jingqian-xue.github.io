@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Scatter Plot - Log-Log</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.3.0/dist/echarts.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f9;
+        }
+
+        #chart {
+            width: 100%;
+            height: 500px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="chart"></div>
+    <script>
+        var myChart = echarts.init(document.getElementById('chart'));
+
+        var data = [
+            { name: 'Cantor Set', color: 'blue', points: [[1, 1], [1 / 3, 2], [1 / 9, 4], [1 / 27, 8], [1 / 81, 16]] },
+            { name: 'Koch Curve', color: 'red', points: [[1, 1], [1 / 3, 4], [1 / 9, 16], [1 / 27, 64], [1 / 81, 256]] },
+            { name: 'Sierpiński Triangle', color: 'green', points: [[1, 1], [1 / 4, 3], [1 / 16, 9], [1 / 64, 27], [1 / 256, 81]] }
+        ];
+
+        var option = {
+            title: {
+                text: 'Log-Log Scatter Plot',
+                left: 'center'
+            },
+            tooltip: {
+                trigger: 'item',
+                formatter: function (params) {
+                    return params.seriesName + ': (' + params.value[0].toFixed(2) + ', ' + params.value[1].toFixed(2) + ')';
+                }
+            },
+            legend: {
+                data: data.map(d => d.name),
+                orient: 'horizontal',
+                top: '6%',
+                left: 'center',
+            },
+            xAxis: {
+                type: 'log',  // 对数坐标轴
+                name: 'Scale (S)',
+                nameLocation: 'middle',
+                axisLabel: { interval: 0 },
+                nameGap: 25
+            },
+            yAxis: {
+                type: 'log',  // 对数坐标轴
+                name: 'Number of Details (N)',
+                nameLocation: 'middle',
+                axisLabel: { margin: 15 },
+                nameGap: 45,
+                nameRotate: 90
+            },
+            series: [
+                ...data.map(item => ({
+                    name: item.name,
+                    type: 'scatter',
+                    data: item.points,
+                    symbolSize: 10,
+                    itemStyle: { color: item.color }
+                }))
+            ]
+        };
+
+        myChart.setOption(option);
+    </script>
+</body>
+
+</html>
